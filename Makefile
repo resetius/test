@@ -1,3 +1,4 @@
+#comment
 main.exe: main.o roman2int.o
 	gcc $^ -o $@
 
