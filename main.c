@@ -1,7 +1,6 @@
 #include <string.h>
 #include <stdio.h>
 #include "roman2int.h"
-#include "roman2int.h"
 
 int main() {
     char input[1000];
