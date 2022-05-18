@@ -1,8 +1,6 @@
 #include <string.h>
 #include <stdio.h>
 
-int f() { }
-
 int romanToInt(char * s){
     int l = strlen(s);
     int i;
